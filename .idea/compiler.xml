@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="memcache-cache" />
+        <module name="memcache-common" />
+        <module name="memcache-config" />
+        <module name="memcache-remoting" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="memcache-cache" target="1.5" />
+      <module name="memcache-common" target="1.5" />
+      <module name="memcache-config" target="1.5" />
+      <module name="memcache-remoting" target="1.5" />
+      <module name="memcache-server" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

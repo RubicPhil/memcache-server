@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/memcache-cache/memcache-cache.iml" filepath="$PROJECT_DIR$/memcache-cache/memcache-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memcache-common/memcache-common.iml" filepath="$PROJECT_DIR$/memcache-common/memcache-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memcache-config/memcache-config.iml" filepath="$PROJECT_DIR$/memcache-config/memcache-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memcache-remoting/memcache-remoting.iml" filepath="$PROJECT_DIR$/memcache-remoting/memcache-remoting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memcache-server.iml" filepath="$PROJECT_DIR$/memcache-server.iml" />
+    </modules>
+  </component>
+</project>
