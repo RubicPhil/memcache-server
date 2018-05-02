@@ -2,6 +2,7 @@ package com.rubic.memcache.common;
 
 /**
  * Created by Administrator on 2018/4/3.
+ * define constant meaning
  */
 public class Constants {
 

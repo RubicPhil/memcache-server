@@ -51,6 +51,11 @@ public class StringUtils {
         return matcher.matches();
     }
 
+    /**
+     * 判断字符串中是否全为数字
+     * @param str
+     * @return
+     */
     public static boolean isDigital(String str) {
         if (str == null || str == "") {
             return false;

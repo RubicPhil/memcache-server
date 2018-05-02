@@ -5,7 +5,7 @@ import com.rubic.memcache.common.utils.StringUtils;
  */
 public class Test {
     public static void main(String[] args) {
-        String s = "-012";
+        String s = "-0.12";
         System.out.println(StringUtils.isDigital(s));
     }
 }
